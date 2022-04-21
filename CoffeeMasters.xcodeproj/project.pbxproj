@@ -12,6 +12,7 @@
 		C97B85182811D9350087917C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C97B85172811D9350087917C /* Assets.xcassets */; };
 		C97B851B2811D9350087917C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C97B851A2811D9350087917C /* Preview Assets.xcassets */; };
 		C97B85222811EB230087917C /* Offer.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97B85212811EB230087917C /* Offer.swift */; };
+		C97B85242811F2A40087917C /* OffersPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97B85232811F2A40087917C /* OffersPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		C97B85172811D9350087917C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C97B851A2811D9350087917C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C97B85212811EB230087917C /* Offer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer.swift; sourceTree = "<group>"; };
+		C97B85232811F2A40087917C /* OffersPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffersPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				C97B85132811D9340087917C /* CoffeeMastersApp.swift */,
 				C97B85152811D9340087917C /* ContentView.swift */,
 				C97B85212811EB230087917C /* Offer.swift */,
+				C97B85232811F2A40087917C /* OffersPage.swift */,
 				C97B85172811D9350087917C /* Assets.xcassets */,
 				C97B85192811D9350087917C /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C97B85222811EB230087917C /* Offer.swift in Sources */,
+				C97B85242811F2A40087917C /* OffersPage.swift in Sources */,
 				C97B85162811D9340087917C /* ContentView.swift in Sources */,
 				C97B85142811D9340087917C /* CoffeeMastersApp.swift in Sources */,
 			);
