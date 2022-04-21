@@ -10,6 +10,8 @@ import SwiftUI
 struct MenuPage: View {
     @EnvironmentObject var menuManager: MenuManager
     
+
+    
     var body: some View {
         NavigationView {
             List {
