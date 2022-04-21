@@ -7,6 +7,6 @@
 
 import Foundation
 
-class CartManager {
-    
+class CartManager: ObservableObject {
+    @Published var cart: [(Product, Int)] = []
 }
